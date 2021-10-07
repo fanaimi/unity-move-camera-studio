@@ -26,3 +26,26 @@ h: 14,  radius: 12
 
  
  * set BINDING MODE to WORLD SPACE
+ 
+ ============== under AXIS CONTROL
+ Y AXIS
+ speed : 4
+ acceleration time: 0.1
+ 
+ X AXIS 
+ speed: 450
+ 
+ 
+ 
+ 
+ 
+ 
+ ================ BACK TO PLAYER
+* add component: character controller
+resize capsule
+
+* add script: Movement
+
+
+
+ 
