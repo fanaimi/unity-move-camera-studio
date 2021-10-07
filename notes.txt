@@ -48,4 +48,6 @@ resize capsule
 
 
 
+ =========== avoid camera to be hidden
+ * go to FreeLookCamera and under EXTENSIONS > Cinemachine.collider
  
