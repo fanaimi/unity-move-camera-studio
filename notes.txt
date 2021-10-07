@@ -1,4 +1,28 @@
 NOTES FOR UNITY-MOVE-CAMERA
 
 
-* WINDOW > PACKAGE MANAGER > ALL packages > CINEMACHINE
+* WINDOW > PACKAGE MANAGER > UNITY REGISTRY > CINEMACHINE
+
+
+* new menu CINEMACHINE at the top >
+  create FREE LOOK CAMERA
+  
+  
+* drag player into FOLLOW slot 
+
+* drag player into LOOK AT slot 
+
+
+=========== 3 ORBITS ==========
+
+a) bottom rig
+h: 0.3,  radius: 12
+
+b) middle rig
+h: 5,  radius: 17
+
+c) top rig
+h: 14,  radius: 12
+
+ 
+ * set BINDING MODE to WORLD SPACE
